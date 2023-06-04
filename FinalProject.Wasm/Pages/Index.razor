@@ -1,0 +1,266 @@
+﻿@page "/"
+@using FinalProject.Domain.Services
+@using FinalProject.Domain.Dtos
+@using FinalProject.Domain.Utilities
+@using FinalProject.Wasm.Services;
+@using Microsoft.AspNetCore.SignalR.Client
+@using Microsoft.Extensions.Localization
+@using System.Net.Http.Headers
+@inject IJSRuntime JsRuntime
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+@inject HttpClient HttpClient
+@inject NavigationManager NavigationManager
+@inject IUrlHelperService UrlHelperService
+@implements IAsyncDisposable
+@inject IStringLocalizer<object> Localizer
+@inject IToasterService ToasterService
+
+
+<div class="container">
+    <div class="row ">
+        <div class="col-md-12">
+            <div class="p-5 mb-4 bg-light rounded-3">
+                <div class="container-fluid">
+                    <h1 class="display-5 fw-bold text-center">My orders @Localizer["Myorders"] Benim Hesaplarım</h1>
+                    <hr />
+                    <div class="d-flex flex-row">
+                        <button class="btn btn-success" @onclick="@(() => NavigationManager.NavigateTo($"/orders/add/{hubConnection.ConnectionId}"))">Add</button>
+                        <input type="text" @oninput=@SearchInputChange class="form-control w-25 ms-2" placeholder="Search" />
+                        <select class="form-control w-25 ms-2" @onchange=@OnSelectChange>
+                            <option value="true">Ascending</option>
+                            <option value="false">Descending</option>
+                        </select>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        @foreach (var order in orders)
+                        {
+                            @* <div class="col-md-4">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h5 class="card-title text-center text-primary">@order.Title</h5>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="input-group text-center">
+                                            <input type="text" class="form-control text-center" value="@order.UserName">
+                                            <span class="input-group-text oi oi-document clickable" id="basic-addon1" @onclick="@(() => CopyUserNameToClipBoardAsync(order.UserName))"></span>
+                                        </div>
+                                        <div class="input-group text-center mt-2">
+                                            @if (order.ShowPassword)
+                                            {
+                                                <input type="text" class="form-control text-center" value="@order.Password">
+                                            }
+                                            else
+                                            {
+                                                <input type="password" class="form-control text-center" value="@order.Password">
+                                            }
+                                            <span class="input-group-text oi oi-eye clickable" @onclick="@(() => SetShowPassword(order))"></span>
+                                            <span class="input-group-text oi oi-document clickable" @onclick="@(() => CopyToClipboardAsync(order.ShowPassword,order.Password))"></span>
+                                        </div>
+
+                                    </div>
+                                    <div class="card-footer">
+                                        <div class="d-flex justify-content-between">
+                                            <button class="btn btn-info" @onclick="@(() => GoToEditPage(order.Id))">Edit</button>
+                                            <button class="btn btn-danger" @onclick="@(() => DeleteorderAsync(order.Id))">Delete</button>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div> *@
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@code
+{
+    private HubConnection? hubConnection;
+
+    List<OrderDto> orders = new();
+
+    private string searchKeyword = string.Empty;
+
+    private bool isAscending = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        @* hubConnection = new HubConnectionBuilder()
+            .WithUrl($"{UrlHelperService.SignalRUrl}/OrdersHub")
+            .WithAutomaticReconnect()
+            .Build(); *@
+
+         hubConnection = new HubConnectionBuilder()
+            .WithUrl($"https://localhost:7296/Hubs/OrdersHub")
+            .WithAutomaticReconnect()
+            .Build();
+
+
+        hubConnection.On<OrderDto>(SignalRMethodKeys.Orders.Added, (OrderDto) =>
+        {
+            orders.Add(OrderDto);
+
+            @* orders = isAscending ?
+                orders.OrderBy(x => x.Title).ToList()
+                : orders.OrderByDescending(x => x.Title).ToList(); *@
+
+            ToasterService.ShowSuccess($"The order was successfully added.");
+
+            InvokeAsync(StateHasChanged);
+        });
+
+        hubConnection.On<Guid>(SignalRMethodKeys.Orders.Deleted, (orderId) =>
+        {
+            var order = orders.FirstOrDefault(x => x.Id == orderId);
+
+            orders.Remove(order);
+
+       //     ToastService.ShowSuccess("The selected order was successfully deleted.");
+
+            InvokeAsync(StateHasChanged);
+        });
+
+        await hubConnection.StartAsync();
+
+        //orders = await FetchordersAsync();
+
+        await base.OnInitializedAsync();
+    }
+
+
+    private ValueTask CopyUserNameToClipBoardAsync(string userName)
+    {
+        //ToastService.ShowSuccess("The selected UserName was copied to the clipboard.");
+
+        return JsRuntime.InvokeVoidAsync("navigator.clipboard.writeText", userName);
+    }
+
+    private async Task OnSelectChange(ChangeEventArgs args)
+    {
+        if (args is null) return;
+
+        isAscending = Convert.ToBoolean(args.Value);
+
+        orders = await FetchordersAsync();
+    }
+
+    private async Task SearchInputChange(ChangeEventArgs args)
+    {
+        if (args is not null && !string.IsNullOrEmpty(args.Value.ToString()))
+        {
+            searchKeyword = args.Value.ToString();
+
+            await OnSearchAsync();
+        }
+        else
+        {
+            searchKeyword = string.Empty;
+
+            orders = await FetchordersAsync();
+        }
+
+
+    }
+
+    private Task<List<OrderDto>?> FetchordersAsync()
+    {
+        HttpClient.DefaultRequestHeaders.Add("Accept-Language","tr-TR");
+        HttpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "token");
+
+        return HttpClient.GetFromJsonAsync<List<OrderDto>>($"orders?isAscending={isAscending}");
+    }
+
+    private void GoToEditPage(Guid id)
+    {
+        NavigationManager.NavigateTo($"/orders/edit/{id}");
+    }
+
+    private async Task OnSearchAsync()
+    {
+        Console.WriteLine("OnSearchAsync");
+
+        if (string.IsNullOrEmpty(searchKeyword))
+        {
+            return;
+        }
+
+        var searchedorders = await HttpClient.GetFromJsonAsync<List<OrderDto>>($"orders?searchKeyword={searchKeyword}&isAscending={isAscending}");
+
+        orders = searchedorders;
+    }
+
+    private void SetShowPassword(OrderDto OrderDto)
+    {
+        @* OrderDto.ShowPassword = !OrderDto.ShowPassword;
+
+        if (OrderDto.ShowPassword)
+        {
+            OrderDto.Password = StringHelper.Base64Decode(OrderDto.Password);
+            Console.WriteLine(OrderDto.Password);
+            return;
+        }
+
+        OrderDto.Password = StringHelper.Base64Encode(OrderDto.Password);
+        Console.WriteLine(OrderDto.Password); *@
+    }
+
+    private async Task DeleteorderAsync(Guid id)
+    {
+
+        var response = await hubConnection.InvokeAsync<bool>(SignalRMethodKeys.Orders.DeleteAsync, id);
+
+        if (response)
+        {
+            var order = orders.FirstOrDefault(x => x.Id == id);
+
+            orders.Remove(order);
+
+       //     ToastService.ShowSuccess("The selected order was successfully deleted.");
+
+            return;
+        }
+
+      //  ToastService.ShowError("An unexpected error occurred.");
+
+        return;
+
+
+        //var response = await HttpClient.DeleteAsync($"orders/{id}");
+
+        //if (response.IsSuccessStatusCode)
+        //{
+        //    var order = orders.FirstOrDefault(x => x.Id == id);
+
+        //    orders.Remove(order);
+
+        //    ToastService.ShowSuccess("The selected order was successfully deleted.");
+
+        //    return;
+        //}
+
+        //ToastService.ShowError("An unexpected error occurred.");
+
+        //return;
+    }
+
+    public ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            return hubConnection.DisposeAsync();
+        }
+
+
+        return ValueTask.CompletedTask;
+    }
+}
+
+<style>
+    body {
+        background: #393E46
+    }
+</style>
