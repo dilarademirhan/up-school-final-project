@@ -1,0 +1,17 @@
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Persistence.deps.json
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Persistence.runtimeconfig.json
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Persistence.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Persistence.pdb
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Domain.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\bin\Debug\net7.0\FinalProject.Domain.pdb
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.csproj.AssemblyReference.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.AssemblyInfoInputs.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.AssemblyInfo.cs
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.csproj.CopyComplete
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\refint\FinalProject.Persistence.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.pdb
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\FinalProject.Persistence.genruntimeconfig.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Persistence\obj\Debug\net7.0\ref\FinalProject.Persistence.dll

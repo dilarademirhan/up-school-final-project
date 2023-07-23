@@ -1,0 +1,14 @@
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\bin\Debug\net7.0\FinalProject.Domain.deps.json
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\bin\Debug\net7.0\FinalProject.Domain.runtimeconfig.json
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\bin\Debug\net7.0\FinalProject.Domain.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\bin\Debug\net7.0\FinalProject.Domain.pdb
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.csproj.AssemblyReference.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.AssemblyInfoInputs.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.AssemblyInfo.cs
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\refint\FinalProject.Domain.dll
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.pdb
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\FinalProject.Domain.genruntimeconfig.cache
+C:\Users\dilara\source\repos\FinalProject\FinalProject\FinalProject.Domain\obj\Debug\net7.0\ref\FinalProject.Domain.dll
