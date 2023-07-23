@@ -2,6 +2,7 @@ using FinalProject.WebApi.Hubs;
 using Microsoft.EntityFrameworkCore;
 using FinalProject.Persistence.EntityFramework.Contexts;
 using FinalProject.WebApi.Hubs;
+using Domain.Settings;
 //using FinalProject.Domain.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,6 +15,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSignalR();
 
+//builder.Services.Configure<JwtSettings>(builder.Configuration.GetSection("JwtSettings"));
+builder.Services.Configure<GoogleSettings>(builder.Configuration.GetSection("GoogleSettings"));
 
 
 var mariaDbConnectionString = builder.Configuration.GetConnectionString("MariaDB")!;
@@ -29,7 +32,6 @@ builder.Services.AddCors(options =>
             .SetIsOriginAllowed((host) => true)
             .AllowAnyHeader());
 });
-
 
 
 var app = builder.Build();

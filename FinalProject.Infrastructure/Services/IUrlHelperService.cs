@@ -1,4 +1,4 @@
-﻿namespace FinalProject.Domain.Services
+﻿namespace FinalProject.Infrastructure.Services
 {
     public interface IUrlHelperService
     {

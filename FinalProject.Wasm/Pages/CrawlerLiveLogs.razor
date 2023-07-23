@@ -1,5 +1,6 @@
 ﻿@page "/crawler_live_logs"
 @using FinalProject.Domain.Dtos
+@using FinalProject.Domain.Utilities;
 @using Microsoft.AspNetCore.SignalR.Client
 @using FinalProject.Domain.Services
 @inject IUrlHelperService UrlHelperService
@@ -35,7 +36,7 @@
             .WithAutomaticReconnect()
             .Build();
 
-        hubConnection.On<SeleniumLogDto>("NewSeleniumLogAdded", (seleniumLogDto) =>
+        hubConnection.On<SeleniumLogDto>(SignalRMethodKeys.Orders.Added, (seleniumLogDto) =>
         {
             logs.Add(seleniumLogDto);
 

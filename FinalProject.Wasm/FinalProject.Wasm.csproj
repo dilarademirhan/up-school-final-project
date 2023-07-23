@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FinalProject.Domain\FinalProject.Domain.csproj" />
+    <ProjectReference Include="..\FinalProject.Infrastructure\FinalProject.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

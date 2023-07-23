@@ -1,6 +1,6 @@
 ﻿using Blazored.Toast.Configuration;
 using Blazored.Toast.Services;
-using FinalProject.Domain.Services;
+using FinalProject.Infrastructure.Services;
 
 namespace FinalProject.Wasm.Services
 {

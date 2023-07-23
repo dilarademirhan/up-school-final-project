@@ -24,6 +24,5 @@ namespace FinalProject.WebApi.Controllers
                  logNotificationApiDto.Log);
             return Ok();
         }
-
     }
 }

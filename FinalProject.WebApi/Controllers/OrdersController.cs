@@ -41,7 +41,6 @@ namespace FinalProject.WebApi.Controllers
             return Ok(orderDtos);
         }
 
-     
 
         [HttpPost]
         public async Task<IActionResult> AddAsync(OrderAddDto orderAddDto, CancellationToken cancellationToken)
@@ -66,7 +65,6 @@ namespace FinalProject.WebApi.Controllers
             return Ok(orderDto);
         }
 
-        
 
         [HttpDelete("{id:guid}")]
         public IActionResult Delete(Guid id)
@@ -80,7 +78,5 @@ namespace FinalProject.WebApi.Controllers
 
             return NoContent();
         }
-
-
     }
 }

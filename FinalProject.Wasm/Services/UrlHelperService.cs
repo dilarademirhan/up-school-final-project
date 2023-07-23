@@ -1,4 +1,4 @@
-﻿using FinalProject.Domain.Services;
+﻿using FinalProject.Infrastructure.Services;
 
 namespace FinalProject.Wasm.Services
 {
