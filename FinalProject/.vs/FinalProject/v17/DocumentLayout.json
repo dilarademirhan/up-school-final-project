@@ -1,0 +1,1189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADF811D-C353-4BB9-AF8A-7E8C419E1FC6}|CrawlerApp\\CrawlerApp.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\crawlerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADF811D-C353-4BB9-AF8A-7E8C419E1FC6}|CrawlerApp\\CrawlerApp.csproj|solutionrelative:crawlerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orders\\queries\\getbyuserid\\ordergetbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orders\\queries\\getbyuserid\\ordergetbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\helpers\\messageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\helpers\\messageshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\auth\\authloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\auth\\authloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\auth\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\auth\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\auth\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\auth\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\email\\sendemailinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\email\\sendemailinformationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\email\\sendemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\email\\sendemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\order\\orderadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\order\\orderadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\order\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\order\\orderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\common\\models\\seleniumlog\\seleniumlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\seleniumlog\\seleniumlogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\auth\\commands\\register\\authregistercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\commands\\register\\authregistercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\auth\\commands\\register\\authregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\commands\\register\\authregistercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\auth\\commands\\register\\authregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\auth\\commands\\register\\authregistercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orderevents\\commands\\add\\ordereventaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orderevents\\commands\\add\\ordereventaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orderevents\\commands\\add\\ordereventaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orderevents\\commands\\add\\ordereventaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orderevents\\commands\\queries\\ordereventgetbyorderiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orders\\commands\\update\\orderupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orders\\commands\\update\\orderupdatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orders\\commands\\update\\orderupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orders\\commands\\update\\orderupdatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orders\\commands\\add\\orderaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orders\\commands\\add\\orderaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\orders\\commands\\add\\orderaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\orders\\commands\\add\\orderaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\products\\commands\\add\\productaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\products\\commands\\add\\productaddcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\products\\commands\\add\\productaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\products\\commands\\add\\productaddcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\products\\queries\\getbyorderid\\productgetbyorderiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\products\\queries\\getbyorderid\\productgetbyorderiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\products\\queries\\getbyorderid\\productgetbyorderidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\products\\queries\\getbyorderid\\productgetbyorderidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\application\\features\\products\\queries\\getbyorderid\\productgetbyorderidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F864A9FE-34A1-4FA8-835B-2A337B9B3CBA}|Application\\Application.csproj|solutionrelative:application\\features\\products\\queries\\getbyorderid\\productgetbyorderidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\icreatedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\icreatedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\ideletedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\ideletedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\ientitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\imodifiedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\imodifiedbyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\common\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\entities\\orderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\orderevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\enums\\productcrawltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\productcrawltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\settings\\googlesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\settings\\googlesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\services\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\authenticationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\services\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwtmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\persistence\\contexts\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\contexts\\identitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\roleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\roleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\userclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\userclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\domain\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{126FB283-95F5-4217-88FF-0C231983854B}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\persistence\\configurations\\configurations\\identity\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\configurations\\configurations\\identity\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768D628C-5C36-4459-B5E6-2D697CF7FEB2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\hubs\\seleniumloghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\hubs\\seleniumloghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\hubs\\orderhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\apicontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\controllers\\ordereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\ordereventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|c:\\users\\dilara\\source\\repos\\up-school-project\\finalproject\\webapi\\wwwrooth\\email_templates\\email_information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E5631FE-900A-4AF8-89BA-BD20F7691B8E}|WebApi\\WebApi.csproj|solutionrelative:webapi\\wwwrooth\\email_templates\\email_information.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:27:07.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Application\\Common\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADgvxkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:18:03.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:39.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IAuthenticationService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:38.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:35.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\CrawlerApp\\Program.cs",
+              "RelativeDocumentMoniker": "CrawlerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\CrawlerApp\\Program.cs",
+              "RelativeToolTip": "CrawlerApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:52:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Auth\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\CreateUserDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Auth\\CreateUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:21.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\JwtDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Auth\\JwtDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\JwtDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Auth\\JwtDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:20.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawEQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:50:28.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderGetByUserIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Queries\\GetByUserId\\OrderGetByUserIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Orders\\Queries\\GetByUserId\\OrderGetByUserIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Queries\\GetByUserId\\OrderGetByUserIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Orders\\Queries\\GetByUserId\\OrderGetByUserIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:24:09.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:25:05.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Order\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Order\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:17:06.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessagesHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Helpers\\MessagesHelper.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Helpers\\MessagesHelper.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Helpers\\MessagesHelper.cs",
+              "RelativeToolTip": "Application\\Common\\Helpers\\MessagesHelper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvwEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:43:42.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Product\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Product\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:16:52.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderAddDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderAddDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Order\\OrderAddDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderAddDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Order\\OrderAddDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:57:51.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SendEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Email\\SendEmailDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Email\\SendEmailDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Email\\SendEmailDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Email\\SendEmailDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:18:33.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:38:20.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeleniumLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\SeleniumLog\\SeleniumLogDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\SeleniumLog\\SeleniumLogDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\SeleniumLog\\SeleniumLogDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\SeleniumLog\\SeleniumLogDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:26:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\AuthLoginRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Auth\\AuthLoginRequest.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Auth\\AuthLoginRequest.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Auth\\AuthLoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:14:42.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Application\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\ConfigureServices.cs",
+              "RelativeToolTip": "Application\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:13:58.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendEmailInformationDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Email\\SendEmailInformationDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Email\\SendEmailInformationDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Email\\SendEmailInformationDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Email\\SendEmailInformationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:22:09.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthRegisterCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandValidator.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:15:08.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthRegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:15:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\Order\\OrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Common\\Models\\Order\\OrderUpdateDto.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\Order\\OrderUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:31:36.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthRegisterCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommand.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Auth\\Commands\\Register\\AuthRegisterCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:15:00.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderEventAddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommand.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommand.cs",
+              "RelativeToolTip": "Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:14:50.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderEventAddCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\OrderEvents\\Commands\\Add\\OrderEventAddCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:50:23.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderEventGetByOrderIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQuery.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:39.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderEventGetByOrderIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderEventGetByOrderIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdDto.cs",
+              "RelativeToolTip": "Application\\Features\\OrderEvents\\Commands\\Queries\\OrderEventGetByOrderIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:34.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderUpdateCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:24.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderUpdateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommand.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Orders\\Commands\\Update\\OrderUpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:22.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderAddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Add\\OrderAddCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Orders\\Commands\\Add\\OrderAddCommand.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Add\\OrderAddCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Orders\\Commands\\Add\\OrderAddCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:15:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductAddCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Commands\\Add\\ProductAddCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Commands\\Add\\ProductAddCommand.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Commands\\Add\\ProductAddCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Commands\\Add\\ProductAddCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:26.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductAddCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Commands\\Add\\ProductAddCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Commands\\Add\\ProductAddCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Commands\\Add\\ProductAddCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Commands\\Add\\ProductAddCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:22.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductGetByOrderIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdDto.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdDto.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdDto.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:16.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderAddCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Add\\OrderAddCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Orders\\Commands\\Add\\OrderAddCommandHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Orders\\Commands\\Add\\OrderAddCommandHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Orders\\Commands\\Add\\OrderAddCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:48:57.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductGetByOrderIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQuery.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQuery.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:14.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductGetByOrderIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQueryHandler.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Queries\\GetByOrderId\\ProductGetByOrderIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:14:09.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ICreatedByEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\ICreatedByEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\ICreatedByEntity.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\ICreatedByEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\ICreatedByEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T00:13:46.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAgYIFZ3SEewAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:49.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderEvent.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\OrderEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\OrderEvent.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\OrderEvent.cs",
+              "RelativeToolTip": "Domain\\Entities\\OrderEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:48.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:54.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\Response.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\Response.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\Response.cs",
+              "RelativeToolTip": "Domain\\Common\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:59:02.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IModifiedByEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IModifiedByEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IModifiedByEntity.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IModifiedByEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\IModifiedByEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:59:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IEntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IEntityBase.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IEntityBase.cs",
+              "RelativeToolTip": "Domain\\Common\\IEntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:59:01.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:23:31.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IDeletedByEntity.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IDeletedByEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\IDeletedByEntity.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Common\\IDeletedByEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\IDeletedByEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:59.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductCrawlType.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Enums\\ProductCrawlType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\ProductCrawlType.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Enums\\ProductCrawlType.cs",
+              "RelativeToolTip": "Domain\\Enums\\ProductCrawlType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GoogleSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Settings\\GoogleSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Settings\\GoogleSettings.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Settings\\GoogleSettings.cs",
+              "RelativeToolTip": "Domain\\Settings\\GoogleSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:54:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Domain\\Settings\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:21.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\EmailManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\EmailManager.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\EmailManager.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\EmailManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T01:22:26.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthenticationManager.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\AuthenticationManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AuthenticationManager.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\AuthenticationManager.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AuthenticationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:54:30.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "JwtManager.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\JwtManager.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtManager.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Services\\JwtManager.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:57:32.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:57:58.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IdentityContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Contexts\\IdentityContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Contexts\\IdentityContext.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Contexts\\IdentityContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Contexts\\IdentityContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\Role.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\Role.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\Role.cs",
+              "RelativeToolTip": "Domain\\Identity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:40.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RoleClaim.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\RoleClaim.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\RoleClaim.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\RoleClaim.cs",
+              "RelativeToolTip": "Domain\\Identity\\RoleClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:38.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\User.cs",
+              "RelativeToolTip": "Domain\\Identity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:37.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserClaim.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserClaim.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\UserClaim.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserClaim.cs",
+              "RelativeToolTip": "Domain\\Identity\\UserClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:36.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserLogin.cs",
+              "RelativeToolTip": "Domain\\Identity\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:35.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserRole.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\UserRole.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserRole.cs",
+              "RelativeToolTip": "Domain\\Identity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:31.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\UserToken.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Domain\\Identity\\UserToken.cs",
+              "RelativeToolTip": "Domain\\Identity\\UserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Configurations\\Configurations\\Identity\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Configurations\\Configurations\\Identity\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\Persistence\\Configurations\\Configurations\\Identity\\RoleConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Configurations\\Configurations\\Identity\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:58:09.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OrderHub.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Hubs\\OrderHub.cs",
+              "RelativeDocumentMoniker": "WebApi\\Hubs\\OrderHub.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Hubs\\OrderHub.cs",
+              "RelativeToolTip": "WebApi\\Hubs\\OrderHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:26:18.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ApiControllerBase.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\ApiControllerBase.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ApiControllerBase.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\ApiControllerBase.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ApiControllerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:56:23.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SeleniumLogHub.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Hubs\\SeleniumLogHub.cs",
+              "RelativeDocumentMoniker": "WebApi\\Hubs\\SeleniumLogHub.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Hubs\\SeleniumLogHub.cs",
+              "RelativeToolTip": "WebApi\\Hubs\\SeleniumLogHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:26:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ConfigureServices.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\Infrastructure\\ConfigureServices.cs",
+              "RelativeToolTip": "Infrastructure\\ConfigureServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:06:51.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T12:46:35.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:37:44.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OrderEventsController.cs",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\OrderEventsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderEventsController.cs",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\Controllers\\OrderEventsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderEventsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:50:03.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "email_information.html",
+              "DocumentMoniker": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\wwwrooth\\email_templates\\email_information.html",
+              "RelativeDocumentMoniker": "WebApi\\wwwrooth\\email_templates\\email_information.html",
+              "ToolTip": "C:\\Users\\dilara\\source\\repos\\up-school-project\\FinalProject\\WebApi\\wwwrooth\\email_templates\\email_information.html",
+              "RelativeToolTip": "WebApi\\wwwrooth\\email_templates\\email_information.html",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwEEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-21T14:29:12.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
