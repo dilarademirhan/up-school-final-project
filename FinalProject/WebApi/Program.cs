@@ -45,7 +45,6 @@ builder.Services.AddSwaggerGen(setupAction =>
 builder.Services.AddApplicationServices();
 builder.Services.AddInfrastructure(builder.Configuration, builder.Environment.WebRootPath);
 
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 builder.Services.AddSignalR();
 
@@ -106,13 +105,6 @@ builder.Services.AddAuthentication(options =>
             }
         };
     });
-
-// Localization Files' Path
-builder.Services.AddLocalization(options =>
-{
-    options.ResourcesPath = "Resources";
-});
-
 
 var app = builder.Build();
 
